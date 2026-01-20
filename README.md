@@ -1,4 +1,4 @@
-## Hey there 👋, I'm **Hosaam Hassan Atta**
+## Hey there 👋, I'm **Hosaam  Atta**
 💻 Front-End Web Developer | Freelance UI Specialist  
 🎨 Building modern, scalable & user-focused web solutions
 

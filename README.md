@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  Hi 👋, I'm <b>Hosaam Hassan Atta</b><br/>
+  Hi 👋, I'm <b>Hosaam Atta</b><br/>
   <!-- ✅ 2) Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=700&lines=Front-End+Developer;Freelance+UI+Specialist;Building+Modern+Responsive+Web+Apps;Dashboards+%26+Forms+Automation+Systems" />
 </h1>

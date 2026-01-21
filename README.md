@@ -4,6 +4,25 @@
        style="width:100%; max-height:220px; object-fit:cover;" />
 </p> -->
 
+<div align="center">
+
+  <img 
+    src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" 
+    alt="Hello Coders" 
+    width="45%" 
+  />
+
+  <h1>Hi 👋, I'm Hosaam Hassan Atta</h1>
+
+  <h3>Freelance Front-End Developer</h3>
+
+  <p>
+    Building modern & responsive web solutions<br/>
+    Dashboards • Forms Automation • Clean UI
+  </p>
+
+</div>
+
 
 <h1 align="center">
   Hi 👋, I'm <b>Hosaam Atta</b><br/>

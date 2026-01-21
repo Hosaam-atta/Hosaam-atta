@@ -1,7 +1,7 @@
 <p align="center">
-  <!-- ✅ 1) Personal Banner (Put your banner image URL here) -->
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Hosaam Hassan Atta Banner" />
+  <img src="https://raw.githubusercontent.com/Hosaam-atta/Hosaam-atta/main/asset/banner.png" alt="Hosaam Atta Banner" />
 </p>
+
 
 <h1 align="center">
   Hi 👋, I'm <b>Hosaam Hassan Atta</b><br/>

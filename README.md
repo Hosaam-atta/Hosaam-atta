@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="600px">
   <img src="https://raw.githubusercontent.com/Hosaam-atta/Hosaam-atta/main/asset/bannar.png" alt="Hosaam Atta Banner" />
 </p>
 

@@ -11,16 +11,6 @@
     alt="Hello Coders" 
     width="45%" 
   />
-
-  <h1>Hi 👋, I'm Hosaam Hassan Atta</h1>
-
-  <h3>Freelance Front-End Developer</h3>
-
-  <p>
-    Building modern & responsive web solutions<br/>
-    Dashboards • Forms Automation • Clean UI
-  </p>
-
 </div>
 
 

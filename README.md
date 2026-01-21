@@ -18,8 +18,6 @@
   Hi 👋, I'm <b>Hosaam Atta</b><br/>
   <!-- ✅ 2) Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=700&lines=Front-End+Developer;Freelance+UI+Specialist;Building+Modern+Responsive+Web+Apps;Dashboards+%26+Forms+Automation+Systems" />
-  I’m **Hosaam Hassan Atta**, a **Freelance Front-End Developer** focused on building **modern, responsive, and user-friendly web interfaces**.
-
 </h1>
 
 <p align="center">
